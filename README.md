@@ -55,13 +55,3 @@ The Employee Management System is a web-based application designed to streamline
 ## Contributing
 
 Contributions to the Employee Management System are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](/LICENSE).
-
----
-
-For more details and support, please contact saurabhgiri2411@gmail.com.
-
-**Note:** Replace `/path/to/screenshot.png` with the actual path to your project's screenshot. Make sure to update contact information and other placeholders as necessary.
